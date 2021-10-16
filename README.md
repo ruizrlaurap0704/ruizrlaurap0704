@@ -34,6 +34,16 @@ Here are some ideas to get you started:
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some projects...  
 
+   
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+## 📈 GitHub Stats
+    
+
  <p align="center">
   <h4> HTML5 | CSS3 | JAVASCRIPT | MYSQL </h4>
    </p>
@@ -41,14 +51,29 @@ Here are some ideas to get you started:
 <!--  -->
 
 <p align="center" >
-<a href="https://github.com/ruizrlaurap0704/github-readme-stats"> 
+<a href="https://github.com/ruizrlaurap0704"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=ruizrlaurap0704&&show_icons=true&theme=radical"/>
 </a>
 </p>
-<br />
+<br />    
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<a href="https://github.com/ruizrlaurap0704">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruizrlaurap0704&langs_count=5&title_color=FF66C4&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ruizrlaurap0704" style="padding:10px"/></a>
 
----
+<a href="https://github.com/ruizrlaurap0704">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=https://github.com/ruizrlaurap0704&show_icons=true&line_height=27&count_private=true&title_color=FF66C4&text_color=8a919a&icon_color=FF66C4&bg_color=22272e" alt="ruizrlaurap0704" style="padding:10px"/></a>
 
+
+    
+## ✨ Lo más relevante de mis repositorios ✨
+
+- ### Material de estudio - Ver [repositorio](https://github.com/martinezga/material-de-estudio)
+
+- ### Katas resueltos de Codewars.
+  
+  Participación en la iniciativa de FrontendCafé - Ver [repositorio](https://github.com/martinezga/py-study-group/tree/main/ejercicios/CodeWars/Gabriella-Martinez)
+
+- ### Challenge HackademyMX.
+  
+  Basic Rest API - Ver [web](https://martinezga.github.io/challenge-basic-rest-api/) / Ver [repositorio](https://github.com/martinezga/challenge-basic-rest-api)
  
