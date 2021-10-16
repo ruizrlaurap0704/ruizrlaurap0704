@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2> Hi, I'm ✨Laura Ruiz✨!</h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em> I am chemical engineer and student of Web Developer Full Stack at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House (Globant - Mercado Libre)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em> I am chemical engineer and student of Web Developer at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House (Globant - Mercado Libre)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -32,11 +32,20 @@ Here are some ideas to get you started:
 <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_plain_wordmark_logo_icon_146415.png" alt="git" width="40" height="40"/> </a>
   
   
-
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some projects...  
 
+ <p align="center">
+  <h4> HTML5 | CSS3 | JAVASCRIPT | MYSQL </h4>
+   </p>
+
+<!--  -->
+
+<p align="center" >
+<a href="https://github.com/ruizrlaurap0704/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=ruizrlaurap0704&&show_icons=true&theme=radical"/>
+</a>
+</p>
+<br />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
