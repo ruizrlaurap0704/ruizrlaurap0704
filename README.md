@@ -17,8 +17,10 @@
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some projects...  
 
-  
-
+✨ Certified Tech Developer (Globant - MercadoLibre). 
+    <br>
+✨ Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL (Udemy).
+    Front End Store Inicio - Ver [web](https://juanylaufreelancers.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/Freelancer)
 
 ## ⚡Performance 
 
