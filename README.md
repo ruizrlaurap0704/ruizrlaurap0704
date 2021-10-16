@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2> ✨I'm Laura Ruiz✨!</h2>
+<h2> I'm ✨Laura Ruiz✨!</h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em> I am chemical engineer and student of Web Developer at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House (Globant - Mercado Libre)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
     
@@ -18,6 +18,11 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some projects.  
 
 ✨ Certified Tech Developer (Globant - MercadoLibre). <br>
+    Pet Shop Inicio - Ver [web](https://petshoplauyjuan.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/PetShopMobile)<br>
+    App Inmobiliaria Inicio - Ver [repositorio](https://github.com/ruizrlaurap0704/appInmobiliaria)<br> 
+    App Carrera de Bicicletas Inicio - Ver [repositorio](https://github.com/ruizrlaurap0704/appCarreraDeBicicletas)<br> 
+    App Gestión de Peliculas Inicio - Ver [repositorio](https://github.com/ruizrlaurap0704/appGestionDePeliculas)<br> 
+    
 ✨ Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL (Udemy). <br>
     Freelancer Inicio - Ver [web](https://juanylaufreelancers.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/Freelancer) <br>
     Frond End Store Inicio - Ver [web](https://frontendstorejuanylau.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/FrontEndStoreInicio) <br>
