@@ -15,12 +15,12 @@
 <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_plain_wordmark_logo_icon_146415.png" alt="git" width="40" height="40"/> </a>
   
   
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some projects...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some projects.  
 
-✨ Certified Tech Developer (Globant - MercadoLibre). 
-    <br>
-✨ Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL (Udemy).
-    Front End Store Inicio - Ver [web](https://juanylaufreelancers.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/Freelancer)
+✨ Certified Tech Developer (Globant - MercadoLibre). <br>
+✨ Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL (Udemy). <br>
+    Freelancer Inicio - Ver [web](https://juanylaufreelancers.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/Freelancer) <br>
+    Frond End Store Inicio - Ver [web](https://frontendstorejuanylau.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/FrontEndStoreInicio) <br>
 
 ## ⚡Performance 
 
