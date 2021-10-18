@@ -18,6 +18,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some projects.  
     
 ✨ Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL (Udemy). <br>
+   Blog de Café Inicio - Ver [web](https://blogdecaferuizrlaurap.netlify.app/index.html) / Ver [repositorio](https://github.com/ruizrlaurap0704/blogdecafe) <br>
    Freelancer Inicio - Ver [web](https://juanylaufreelancers.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/Freelancer) <br>
    Frond End Store Inicio - Ver [web](https://frontendstorejuanylau.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/FrontEndStoreInicio) <br>
 
