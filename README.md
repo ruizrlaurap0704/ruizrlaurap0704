@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h2> I'm ✨Laura Ruiz✨!</h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em> I am chemical engineer and student of Web Developer at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House (Globant - Mercado Libre)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<p><em> I am student of Web Developer at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House (Globant - Mercado Libre)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
     
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
