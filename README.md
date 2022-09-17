@@ -15,7 +15,7 @@
 <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_plain_wordmark_logo_icon_146415.png" alt="git" width="40" height="40"/> </a>
   
   
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some projects.  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some projects ---> My Beginnings <---
     
 ✨ Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL (Udemy). <br>
    Blog de Café Inicio - Ver página [web](https://blogdecaferuizrlaurap7.netlify.app/index.html) / Ver [repositorio](https://github.com/ruizrlaurap0704/blogdecafe) <br>
