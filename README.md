@@ -5,20 +5,24 @@
     
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
+
+<a href="https://git-scm.com/" target="_blank"> <img src="https://inscripciones.utnso.com.ar/images/github-round.png" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_plain_wordmark_logo_icon_146415.png" alt="git" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.java.com/es/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="git" width="40" height="40"/> </a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" alt="git" width="60" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="git" width="80" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://hsto.org/getpro/habr/post_images/792/138/92e/79213892e85d57177c0ba9864dd75cc6.png" alt="git" width="50" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://inscripciones.utnso.com.ar/images/github-round.png" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mysql_plain_wordmark_logo_icon_146415.png" alt="git" width="40" height="40"/> </a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" alt="git" width="60" height="40"/> </a>
   
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some projects ---> My Beginnings <---
     
-✨ Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL (Udemy). <br>
+✨ Desarrollo Web Completo con HTML5, CSS3, JS y MySQL (Udemy). <br>
    Blog de Café Inicio - Ver página [web](https://blogdecaferuizrlaurap7.netlify.app/index.html) / Ver [repositorio](https://github.com/ruizrlaurap0704/blogdecafe) <br>
    Freelancer Inicio - Ver página [web](https://juanylaufreelancers.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/Freelancer) <br>
    Frond End Store Inicio - Ver página [web](https://fronendstorejuanylau.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/FrontEndStoreInicio) <br>
