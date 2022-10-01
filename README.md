@@ -36,7 +36,7 @@
 
 ## ⚡Performance 
 
-<h4> JAVA | HTML5 | CSS3 | JAVASCRIPT | MYSQL </h4>
+<h4> JAVA | PYTHON | HTML5 | CSS3 | JAVASCRIPT </h4>
 
 <p align="center">
 <a href="https://github.com/ruizrlaurap0704"><img src="https://github-readme-stats.vercel.app/api?username=ruizrlaurap0704&&show_icons=true&theme=radical"/> </a> 
