@@ -21,18 +21,17 @@
   
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some projects ---> My Beginnings <---
-
-✨ Certified Tech Developer (Globant - MercadoLibre). <br>
-    Pet Shop Inicio - Ver página [web](https://petshoplauyjuan.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/PetShopMobile)<br>
-    App Inmobiliaria Inicio - Ver [repositorio](https://github.com/ruizrlaurap0704/appInmobiliaria)<br> 
-    App Carrera de Bicicletas Inicio - Ver [repositorio](https://github.com/ruizrlaurap0704/appCarreraDeBicicletas)<br> 
-    App Gestión de Peliculas Inicio - Ver [repositorio](https://github.com/ruizrlaurap0704/appGestionDePeliculas)<br> 
     
 ✨ Desarrollo Web Completo con HTML5, CSS3, JS y MySQL (Udemy). <br>
    Blog de Café Inicio - Ver página [web](https://blogdecaferuizrlaurap7.netlify.app/index.html) / Ver [repositorio](https://github.com/ruizrlaurap0704/blogdecafe) <br>
    Freelancer Inicio - Ver página [web](https://juanylaufreelancers.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/Freelancer) <br>
    Frond End Store Inicio - Ver página [web](https://fronendstorejuanylau.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/FrontEndStoreInicio) <br>
-
+   
+✨ Certified Tech Developer (Globant - MercadoLibre). <br>
+    Pet Shop Inicio - Ver página [web](https://petshoplauyjuan.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/PetShopMobile)<br>
+    App Inmobiliaria Inicio - Ver [repositorio](https://github.com/ruizrlaurap0704/appInmobiliaria)<br> 
+    App Carrera de Bicicletas Inicio - Ver [repositorio](https://github.com/ruizrlaurap0704/appCarreraDeBicicletas)<br> 
+    App Gestión de Peliculas Inicio - Ver [repositorio](https://github.com/ruizrlaurap0704/appGestionDePeliculas)<br> 
 
 ## ⚡Performance 
 
