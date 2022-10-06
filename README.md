@@ -7,7 +7,6 @@
 <p align="left">
 
 <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://www.fileeagle.com/data/2015/07/MySQL-Workbench.png" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.java.com/es/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="git" width="40" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" alt="git" width="60" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="git" width="80" height="40"/> </a>
