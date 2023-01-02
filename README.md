@@ -23,6 +23,7 @@
    
 ✨ Certified Tech Developer (Globant - MercadoLibre). <br>
     Pet Shop Inicio - Ver página [web](https://petshoplauyjuan.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/PetShopMobile)<br>
+    App Consultorio Odontologico - Ver [repositorio](https://github.com/ruizrlaurap0704/Evaluacion_Final_Laura_Ruiz)<br>
     App Inmobiliaria Inicio - Ver [repositorio](https://github.com/ruizrlaurap0704/appInmobiliaria)<br> 
     App Carrera de Bicicletas Inicio - Ver [repositorio](https://github.com/ruizrlaurap0704/appCarreraDeBicicletas)<br> 
     App Gestión de Peliculas Inicio - Ver [repositorio](https://github.com/ruizrlaurap0704/appGestionDePeliculas)<br> 
