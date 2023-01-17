@@ -1,7 +1,9 @@
 ### Hi there 👋
 <h2> I'm ✨Laura Ruiz✨!</h2>
+
+## 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<h2> I am student of Web Developer at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House (Globant - Mercado Libre)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h3> I am student of Web Developer at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House (Globant - Mercado Libre)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
   
 Web Developer ---> Java Script| REACT | HTML | CSS  <---
    
