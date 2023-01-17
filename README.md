@@ -4,7 +4,7 @@
   
 Web Developer ---> Java Script| REACT | HTML | CSS  <---
    
-✨ Certified Tech Developer (Globant - MercadoLibre)
+✨ Certified Tech Developer (Globant - MercadoLibre) <Br>
    Blog de Café Inicio - Ver página [web](https://blogdecaferuizrlaurap7.netlify.app/index.html) / Ver [repositorio](https://github.com/ruizrlaurap0704/blogdecafe) <br>
    Freelancer Inicio - Ver página [web](https://juanylaufreelancers.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/Freelancer) <br>
    Frond End Store Inicio - Ver página [web](https://fronendstorejuanylau.netlify.app/) / Ver [repositorio](https://github.com/ruizrlaurap0704/FrontEndStoreInicio) <br>
