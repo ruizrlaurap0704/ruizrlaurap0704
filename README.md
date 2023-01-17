@@ -1,6 +1,6 @@
 ### 
 <h1> Hi there! 👋 My name is Laura Ruiz!</h1>
-<h3> I'm a web development student - Back End in <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House (Globant - Mercado Libre)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3> I'm a web development student - Back End in <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House (Globant - Mercado Libre)</a></h3>
   
 Web Developer ---> Java Script| REACT | HTML | CSS  <---
    
