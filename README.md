@@ -1,6 +1,6 @@
 ### 
 <h1> Hi there! 👋 My name is Laura Ruiz!</h1>
-<h3> I'm a web professional Developer in <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House (Globant - Mercado Libre)</a></h3>
+<h3> I'm a web professional Developer <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House (Globant - Mercado Libre)</a></h3>
   
 Some projects ---> 
 
