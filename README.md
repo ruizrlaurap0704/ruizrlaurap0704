@@ -10,6 +10,10 @@ MySQL <br>
   Consultas MySQL2 - Ver [repositorio](https://github.com/ruizrlaurap0704/ConsultasMySQL2) <br>
   Consultas MySQL3 - Ver [repositorio](https://github.com/ruizrlaurap0704/ConsultasMySQL3) <br>
   
+Python <br>
+  Python - Ver [repositorio]([https://github.com/ruizrlaurap0704/java_MVC_SpringBoot1](https://github.com/ruizrlaurap0704/Python_Esencial)) <br>
+  Python - Ver [repositorio]([https://github.com/ruizrlaurap0704/java_MVC_SpringBoot2](https://github.com/ruizrlaurap0704/Python_Charles_Severance)) <br>
+
 Java <br>
   MVC Spring Boot1 - Ver [repositorio](https://github.com/ruizrlaurap0704/java_MVC_SpringBoot1) <br>
   MVC Spring Boot2 - Ver [repositorio](https://github.com/ruizrlaurap0704/java_MVC_SpringBoot2) <br>
