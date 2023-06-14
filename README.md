@@ -11,7 +11,7 @@ MySQL <br>
   Consultas MySQL3 - Ver [repositorio](https://github.com/ruizrlaurap0704/ConsultasMySQL3) <br>
   
 Python <br>
-  Python - Ver [repositorio](https://github.com/ruizrlaurap0704/Python_Esencial) <br>
+  Python Esencial - Ver [repositorio](https://github.com/ruizrlaurap0704/Python_Esencial) <br>
   Python - Ver [repositorio](https://github.com/ruizrlaurap0704/Python_Charles_Severance) <br>
 
 Java <br>
