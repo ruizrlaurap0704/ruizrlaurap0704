@@ -15,19 +15,5 @@ Java Script | REACT | HTML | CSS <br>
 Testing <br>
   Testing - Watch [repository](https://github.com/ruizrlaurap0704/Testing) <br>
 
-MySQL <br>
-  MySQL1 - Watch [repository](https://github.com/ruizrlaurap0704/ConsultasMySQL) <br>
-  MySQL2 - Watch [repository](https://github.com/ruizrlaurap0704/ConsultasMySQL2) <br>
-  MySQL3 - Watch [repository](https://github.com/ruizrlaurap0704/ConsultasMySQL3) <br>
-  
-Python <br>
-  Python Esencial - Watch [repository](https://github.com/ruizrlaurap0704/Python_Esencial) <br>
-  Python - Watch [repository](https://github.com/ruizrlaurap0704/Python_Charles_Severance) <br>
-
-Java <br>
-  MVC Spring Boot1 - Watch [repository](https://github.com/ruizrlaurap0704/java_MVC_SpringBoot1) <br>
-  MVC Spring Boot2 - Watch [repository](https://github.com/ruizrlaurap0704/java_MVC_SpringBoot2) <br>
-  MVC Spring Boot3 - Watch [repository](https://github.com/ruizrlaurap0704/Java_MVC_SpringBoot3) <br>
-
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
