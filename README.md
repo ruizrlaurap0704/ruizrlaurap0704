@@ -1,10 +1,9 @@
 ### 
 <h1> Hi there! 👋 My name is Laura Ruiz!</h1>
-<h3> Here are some projects. </h3>
+
+Some projects ---> 
 
 Proyecto Integrador - Watch [repository] (https://github.com/ruizrlaurap0704/proyecto_integrador) Digital House (Globant - Mercado Libre) <br> 
- 
-Some projects ---> 
 
 Java Script | REACT | HTML | CSS <br>
    Blog Café Home - Watch Page [web](https://blogdecaferuizrlaurap7.netlify.app/index.html) / Watch [repository](https://github.com/ruizrlaurap0704/blogdecafe) <br>
