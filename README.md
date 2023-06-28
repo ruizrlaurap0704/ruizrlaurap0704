@@ -1,7 +1,8 @@
 ### 
 <h1> Hi there! 👋 My name is Laura Ruiz!</h1>
-<h3> Here are some projects. <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House (Globant - Mercado Libre)</a></h3>
-Proyecto Integrador - Watch [repository] (https://github.com/ruizrlaurap0704/proyecto_integrador)<br>
+<h3> Here are some projects. </h3>
+
+Proyecto Integrador - Watch [repository] (https://github.com/ruizrlaurap0704/proyecto_integrador) Digital House (Globant - Mercado Libre) <br> 
  
 Some projects ---> 
 
