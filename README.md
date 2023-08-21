@@ -1,7 +1,7 @@
 ### 
 <h1> Hi there! 👋 My name is Laura Ruiz!</h1> <br>
 
-Proyecto Integrador - Web Developer - Digital House [repository] (https://github.com/ruizrlaurap0704/proyecto_integrador) <br> 
+Proyecto Integrador - Web Developer - Digital House / [repository] (https://github.com/ruizrlaurap0704/proyecto_integrador) <br> 
 
 Web Developer Full Stack Python - Codo a Codo Page [web](https://tranquil-gingersnap-f45509.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/final) <br>
 
