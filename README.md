@@ -6,10 +6,10 @@ Proyecto Integrador - Web Developer - Digital House / [repository](https://githu
 Web Developer Full Stack Python - Codo a Codo Page [web](https://tranquil-gingersnap-f45509.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/final) <br>
 
 Java Script | REACT | VUE | HTML | CSS <br>
-Blog Café Home - Page [web](https://blogdecaferuizrlaurap7.netlify.app/index.html) / [repository](https://github.com/ruizrlaurap0704/blogdecafe) <br>
-Freelancer Home - Page [web](https://juanylaufreelancers.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/Freelancer) <br>
-Frond End Store Home - Page [web](https://fronendstorejuanylau.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/FrontEndStoreInicio) <br>
-Pet Shop Home - Page [web](https://petshoplauyjuan.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/PetShopMobile)<br>
+Blog Café Home - Página [web](https://blogdecaferuizrlaurap7.netlify.app/index.html) / [repository](https://github.com/ruizrlaurap0704/blogdecafe) <br>
+Freelancer Home - Página [web](https://juanylaufreelancers.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/Freelancer) <br>
+Frond End Store Home - Página [web](https://fronendstorejuanylau.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/FrontEndStoreInicio) <br>
+Pet Shop Home - Página [web](https://petshoplauyjuan.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/PetShopMobile)<br>
 Dental Office - [repository](https://github.com/ruizrlaurap0704/Evaluacion_Final_Laura_Ruiz)
   
 Testing <br>
