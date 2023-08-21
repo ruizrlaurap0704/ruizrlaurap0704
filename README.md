@@ -1,16 +1,16 @@
 ### 
-<h1> Hi there! 👋 My name is Laura Ruiz!</h1>
+<h1> Hi there! 👋 My name is Laura Ruiz!</h1> <br>
 
-Some projects ---> 
+Proyecto Integrador - Web Developer - Digital House [repository] (https://github.com/ruizrlaurap0704/proyecto_integrador) <br> 
 
-Proyecto Integrador - Watch [repository] (https://github.com/ruizrlaurap0704/proyecto_integrador) Digital House (Globant - Mercado Libre) <br> 
+Web Developer Full Stack Python - Codo a Codo Page [web](https://tranquil-gingersnap-f45509.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/final) <br>
 
-Java Script | REACT | HTML | CSS <br>
-   Blog Café Home - Watch Page [web](https://blogdecaferuizrlaurap7.netlify.app/index.html) / Watch [repository](https://github.com/ruizrlaurap0704/blogdecafe) <br>
-   Freelancer Home - Watch Page [web](https://juanylaufreelancers.netlify.app/) / Watch [repository](https://github.com/ruizrlaurap0704/Freelancer) <br>
-   Frond End Store Home - Watch Page [web](https://fronendstorejuanylau.netlify.app/) / Watch [repository](https://github.com/ruizrlaurap0704/FrontEndStoreInicio) <br>
-   Pet Shop Home - Watch Page [web](https://petshoplauyjuan.netlify.app/) / Watch [repository](https://github.com/ruizrlaurap0704/PetShopMobile)<br>
-   Dental Office - Watch [repository](https://github.com/ruizrlaurap0704/Evaluacion_Final_Laura_Ruiz)
+Java Script | REACT | VUE | HTML | CSS <br>
+Blog Café Home - Page [web](https://blogdecaferuizrlaurap7.netlify.app/index.html) / [repository](https://github.com/ruizrlaurap0704/blogdecafe) <br>
+Freelancer Home - Page [web](https://juanylaufreelancers.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/Freelancer) <br>
+Frond End Store Home - Page [web](https://fronendstorejuanylau.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/FrontEndStoreInicio) <br>
+Pet Shop Home - Page [web](https://petshoplauyjuan.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/PetShopMobile)<br>
+Dental Office - [repository](https://github.com/ruizrlaurap0704/Evaluacion_Final_Laura_Ruiz)
   
 Testing <br>
   Testing - Watch [repository](https://github.com/ruizrlaurap0704/Testing) <br>
