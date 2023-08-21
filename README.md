@@ -1,7 +1,7 @@
 ### 
 <h1> Hi there! 👋 My name is Laura Ruiz!</h1> <br>
 
-Proyecto Integrador - Web Developer - Digital House / [repository] (https://github.com/ruizrlaurap0704/proyecto_integrador) <br> 
+Proyecto Integrador - Web Developer - Digital House / [repository](https://github.com/ruizrlaurap0704/proyecto_integrador) <br> 
 
 Web Developer Full Stack Python - Codo a Codo Page [web](https://tranquil-gingersnap-f45509.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/final) <br>
 
@@ -13,7 +13,7 @@ Pet Shop Home - Page [web](https://petshoplauyjuan.netlify.app/) / [repository](
 Dental Office - [repository](https://github.com/ruizrlaurap0704/Evaluacion_Final_Laura_Ruiz)
   
 Testing <br>
-  Testing - Watch [repository](https://github.com/ruizrlaurap0704/Testing) <br>
+  Testing - [repository](https://github.com/ruizrlaurap0704/Testing) <br>
 
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
