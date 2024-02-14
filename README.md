@@ -15,7 +15,6 @@ Blog Café - Página [web](https://blogdecaferuizrlaurap7.netlify.app/index.html
 Freelancer - Página [web](https://juanylaufreelancers.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/Freelancer) <br>
 Frond End Store - Página [web](https://fronendstorejuanylau.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/FrontEndStoreInicio) <br>
 Pet Shop - Página [web](https://petshoplauyjuan.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/PetShopMobile)<br>
-Dental Office - [repository](https://github.com/ruizrlaurap0704/Evaluacion_Final_Laura_Ruiz) <br>
 
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
