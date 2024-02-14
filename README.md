@@ -6,7 +6,7 @@ Machine Learning / [repository](https://github.com/ruizrlaurap0704/ConsultoBI) <
 SQL Avanzado / [repository](https://github.com/ruizrlaurap0704/ConsultorBI_SQL?tab=readme-ov-file) <br> <br>
 
 <h2>Desarrollo Web</h2>
-Web Developer Full Stack Python - Codo a Codo Page [web](https://tranquil-gingersnap-f45509.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/final) <br>
+Web Developer Full Stack Python - Codo a Codo Page [web](https://tranquil-gingersnap-f45509.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/final) <br><br>
 
 Java Script | REACT | VUE | HTML | CSS <br>
 Blog Café Home - Página [web](https://blogdecaferuizrlaurap7.netlify.app/index.html) / [repository](https://github.com/ruizrlaurap0704/blogdecafe) <br>
