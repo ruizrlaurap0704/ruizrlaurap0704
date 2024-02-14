@@ -1,6 +1,10 @@
 ### 
 <h1> Hi there! 👋 My name is Laura Ruiz!</h1> <br>
 
+<h2>Análisis de Datos</h2>
+Machine Learning / [repository](https://github.com/ruizrlaurap0704/ConsultoBI) <br> 
+SQL Avanzado / [repository](https://github.com/ruizrlaurap0704/ConsultorBI_SQL?tab=readme-ov-file) <br>
+
 Proyecto Integrador - Web Developer - Digital House / [repository](https://github.com/ruizrlaurap0704/proyecto_integrador) <br> 
 
 Web Developer Full Stack Python - Codo a Codo Page [web](https://tranquil-gingersnap-f45509.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/final) <br>
