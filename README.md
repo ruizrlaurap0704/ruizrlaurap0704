@@ -5,6 +5,7 @@
 
 Machine Learning / [repository](https://github.com/ruizrlaurap0704/ConsultoBI)<br>
 SQL Avanzado - [repository](https://github.com/ruizrlaurap0704/ConsultorBI_SQL?tab=readme-ov-file) <br>
+Power BI - [repository](https://github.com/ruizrlaurap0704/PowerBI) <br>
 
 <h2>Desarrollo Web</h2>
 
