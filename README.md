@@ -2,6 +2,7 @@
 <h1> ¡Hola 👋 Mi nombre es Laura Ruiz!</h1> <br>
 
 <h2>Análisis de Datos</h2>
+
 Machine Learning - / [repository](https://github.com/ruizrlaurap0704/ConsultoBI)<br>
 SQL Avanzado - [repository](https://github.com/ruizrlaurap0704/ConsultorBI_SQL?tab=readme-ov-file) <br>
 Power BI - [repository](https://github.com/ruizrlaurap0704/PowerBI) <br>
@@ -9,6 +10,7 @@ Deep Note - [repository](https://deepnote.com/workspace/ruizrlaurap-2be465d8-32b
 Looker Studio - [repository](https://lookerstudio.google.com/u/0/reporting/76a344e6-f5ef-41e0-a06a-d301e3ae1b07/page/hjp5C) <br>
 
 <h2>Desarrollo Web</h2>
+
 Web Developer Full Stack Python - Codo a Codo Page [web](https://tranquil-gingersnap-f45509.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/final) <br>
 Java Script | REACT | VUE | HTML | CSS <br>
 Blog Café - Página [web](https://blogdecaferuizrlaurap7.netlify.app/index.html) / [repository](https://github.com/ruizrlaurap0704/blogdecafe) <br>
