@@ -1,5 +1,6 @@
 ### 
 <h1> ¡Hola 👋 Mi nombre es Laura Ruiz!</h1> <br>
+
 <p>¡Bienvenid@ a mi repositorio!</p>
 
 <h2>Análisis de Datos - Machine Learning - Big Data</h2>
@@ -13,7 +14,7 @@ Looker Studio - [repository](https://lookerstudio.google.com/u/0/reporting/76a34
 
 <h2>Desarrollo Web</h2>
 
-Java Script | VUE | HTML5 | CSS3 <br>
+Java Script | VUE | HTML5 | CSS3 | Python <br>
 Blog Café - Página [web](https://blogdecaferuizrlaurap7.netlify.app/index.html) / [repository](https://github.com/ruizrlaurap0704/blogdecafe) <br>
 Freelancer - Página [web](https://juanylaufreelancers.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/Freelancer) <br>
 Frond End Store - Página [web](https://fronendstorejuanylau.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/FrontEndStoreInicio) <br>
