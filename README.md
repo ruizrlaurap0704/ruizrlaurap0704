@@ -12,18 +12,18 @@ Looker Studio - [repository](https://lookerstudio.google.com/u/0/reporting/76a34
 
 <h2>Desarrollo Web</h2>
 
-Web Developer Full Stack Python - Codo a Codo Page [web](https://tranquil-gingersnap-f45509.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/final) <br>
 Java Script | REACT | VUE | HTML | CSS <br>
 Blog Café - Página [web](https://blogdecaferuizrlaurap7.netlify.app/index.html) / [repository](https://github.com/ruizrlaurap0704/blogdecafe) <br>
 Freelancer - Página [web](https://juanylaufreelancers.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/Freelancer) <br>
 Frond End Store - Página [web](https://fronendstorejuanylau.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/FrontEndStoreInicio) <br>
+Web Developer Full Stack Python - Codo a Codo Page [web](https://tranquil-gingersnap-f45509.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/final) <br>
 Pet Shop - Página [web](https://petshoplauyjuan.netlify.app/) / [repository](https://github.com/ruizrlaurap0704/PetShopMobile)<br>
 
 <h2>Certificados</h2>
 <h3>Análisis de Datos - Machine Learning - Big Data</h3>
 
-Consultor BI - / [Documento]([https://drive.google.com/file/d/1WiHeQSqewS4WPWblBZ2AJ0al8FrWJoup/view?usp=sharing])<br>
-Análisis de Datos de Google - / [Documento]([https://drive.google.com/file/d/1-A1evyQto06yHMf9vh7G5VLP9RsfHvxu/view?usp=sharing])<br>
+Consultor BI - / [Document]([https://drive.google.com/file/d/1WiHeQSqewS4WPWblBZ2AJ0al8FrWJoup/view?usp=sharing])<br>
+Análisis de Datos de Google - / [Document]([https://drive.google.com/file/d/1-A1evyQto06yHMf9vh7G5VLP9RsfHvxu/view?usp=sharing])<br>
 Big Data (Ciencia de Datos) - / [Documento]([https://drive.google.com/file/d/1-A1evyQto06yHMf9vh7G5VLP9RsfHvxu/view?usp=sharing])<br>
 Inglés EF - / [Documento]([https://drive.google.com/file/d/11PmtMlg-IRiUjVLQfH_ekl68hOJ0ygHg/view?usp=sharing])<br>
 Estadística USP Education - / [Documento]([https://drive.google.com/file/d/1sNwOZXHmYzdqGlSaRXznG66-2KdZT4x7/view?usp=sharing])<br>
