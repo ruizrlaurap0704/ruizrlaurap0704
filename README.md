@@ -23,7 +23,7 @@ Pet Shop - Página [web](https://petshoplauyjuan.netlify.app/) / [repository](ht
 <h2>Certificados</h2>
 <h3>Análisis de Datos - Machine Learning - Big Data</h3>
 
-Consultor BI - / !([https://drive.google.com/file/d/1WiHeQSqewS4WPWblBZ2AJ0al8FrWJoup/view?usp=sharing])<br>
+Consultor BI - / ![]([https://drive.google.com/file/d/1WiHeQSqewS4WPWblBZ2AJ0al8FrWJoup/view?usp=sharing])<br>
 Análisis de Datos de Google - / [Document]([https://drive.google.com/file/d/1-A1evyQto06yHMf9vh7G5VLP9RsfHvxu/view?usp=sharing])<br>
 Big Data (Ciencia de Datos) - / [Documento]([https://drive.google.com/file/d/1-A1evyQto06yHMf9vh7G5VLP9RsfHvxu/view?usp=sharing])<br>
 Inglés EF - / [Documento]([https://drive.google.com/file/d/11PmtMlg-IRiUjVLQfH_ekl68hOJ0ygHg/view?usp=sharing])<br>
