@@ -6,7 +6,7 @@
 <h2>Análisis de Datos - Machine Learning - Big Data</h2>
 
 Machine Learning - [repository](https://github.com/ruizrlaurap0704/ConsultoBI)<br>
-Power BI Avanzado - [repository](https://github.com/ruizrlaurap0704/PowerBI) <br>
+Power BI Avanzado - [repository](https://github.com/ruizrlaurap0704/PowerBI_Avanzado) <br>
 Power BI - Identificación de Outliers - [repository](https://github.com/ruizrlaurap0704/PowerBI) <br>
 SQL Avanzado - [repository](https://github.com/ruizrlaurap0704/ConsultorBI_SQL?tab=readme-ov-file) <br>
 SQL Básico - [repository](https://github.com/ruizrlaurap0704/SQL_Basico) <br>
