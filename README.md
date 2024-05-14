@@ -3,7 +3,7 @@
 
 <p>¡Bienvenid@ a mi repositorio!</p>
 
-<h2>Análisis de Datos - Machine Learning - Big Data</h2>
+<h2>Análisis de Datos - Machine Learning </h2>
 
 Machine Learning - [repository](https://github.com/ruizrlaurap0704/ConsultoBI)<br>
 Power BI Avanzado - [repository](https://github.com/ruizrlaurap0704/PowerBI_Avanzado) <br>
