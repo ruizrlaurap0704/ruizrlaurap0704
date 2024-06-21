@@ -1,7 +1,7 @@
 ### 
 <h1> ¡Hola 👋 Mi nombre es Laura Ruiz!</h1> <br>
 
-<p>¡Bienvenid@ a mi repositorio! Para acceder a los repositorio privados enviar email: laurapaola7@gmail.com</p>
+<p>¡Bienvenid@ a mi repositorio! Para acceder a los repositorios privados enviar email: laurapaola7@gmail.com</p>
 
 <h2>Análisis de Datos - Machine Learning </h2>
 
