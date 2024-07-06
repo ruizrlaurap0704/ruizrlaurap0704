@@ -3,8 +3,9 @@
 
 <p>¡Bienvenid@ a mi repositorio! </p>
 
-<h2>Análisis de Datos - Machine Learning </h2>
-
+<h2>Análisis de Datos - Machine Learning - Vision Computer </h2>
+Computer Vision - [repository](https://github.com/ruizrlaurap0704/M1000IA_Vue)<br>
+Computer Vision - [repository](https://github.com/ruizrlaurap0704/M1000IA_Streamlit)<br>
 Machine Learning - [repository](https://github.com/ruizrlaurap0704/ConsultoBI)<br>
 Power BI Avanzado - [repository](https://github.com/ruizrlaurap0704/PowerBI_Avanzado) <br>
 Power BI - Identificación de Outliers - [repository](https://github.com/ruizrlaurap0704/PowerBI) <br>
