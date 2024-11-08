@@ -5,7 +5,11 @@
 
 <h2>Desarrollo Web </h2>
 
-TPO Full Stack Python - [web](https://tranquil-gingersnap-f45509.netlify.app) - [repository](https://github.com/ruizrlaurap0704/M1000IA_Vue)<br>
+TPO Full Stack Python - [web](https://tranquil-gingersnap-f45509.netlify.app) - [repository](https://github.com/ruizrlaurap0704/agua)<br>
+Profesional Developer - [web](https://blogdecaferuizrlaurap7.netlify.app/) - [repository](https://github.com/ruizrlaurap0704/blogdecafe)<br>
+Profesional Developer - [web](https://fronendstorejuanylau.netlify.app/) - [repository](https://github.com/ruizrlaurap0704/FrontEndStoreInicio)<br>
+Freelancer - [web](https://juanylaufreelancers.netlify.app/) - [repository](https://github.com/ruizrlaurap0704/Freelancer)<br>
+
 
 <h2>Análisis de Datos - Machine Learning - IA Computer Vision </h2>
 
