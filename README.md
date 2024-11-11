@@ -16,8 +16,6 @@ Freelancer - [web](https://juanylaufreelancers.netlify.app/) - [repository](http
 Computer Vision Front Vue - [repository](https://github.com/ruizrlaurap0704/M1000IA_Vue)<br>
 Computer Vision Front Streamlit- [repository](https://github.com/ruizrlaurap0704/M1000IA_Streamlit)<br>
 Machine Learning - [repository](https://github.com/ruizrlaurap0704/ConsultoBI)<br>
-Power BI Avanzado - [repository](https://github.com/ruizrlaurap0704/PowerBI_Avanzado) <br>
-Power BI - Identificación de Outliers - [repository](https://github.com/ruizrlaurap0704/PowerBI) <br>
 SQL Avanzado - [repository](https://github.com/ruizrlaurap0704/ConsultorBI_SQL?tab=readme-ov-file) <br>
 SQL Básico - [repository](https://github.com/ruizrlaurap0704/SQL_Basico) <br>
 Deep Note - [repository](https://deepnote.com/workspace/ruizrlaurap-2be465d8-32b1-4954-957f-00aa42ed3f5d/project/Big-Data-government-of-the-city-of-buenos-aires-2911aff1-fbc3-4096-a097-f4065ee8f5d3/notebook/f985485c5dbb49838042bb11c347621b) <br>
