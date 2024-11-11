@@ -11,7 +11,7 @@ Profesional Developer - [web](https://fronendstorejuanylau.netlify.app/) - [repo
 Freelancer - [web](https://juanylaufreelancers.netlify.app/) - [repository](https://github.com/ruizrlaurap0704/Freelancer)<br>
 
 
-<h2>Análisis de Datos - Machine Learning - IA Computer Vision </h2>
+<h2> Machine Learning - IA Computer Vision </h2>
 
 Computer Vision Front Vue - [repository](https://github.com/ruizrlaurap0704/M1000IA_Vue)<br>
 Computer Vision Front Streamlit- [repository](https://github.com/ruizrlaurap0704/M1000IA_Streamlit)<br>
