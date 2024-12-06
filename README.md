@@ -13,9 +13,5 @@ Freelancer - [web](https://juanylaufreelancers.netlify.app/) - [repository](http
 SQL Avanzado - [repository](https://github.com/ruizrlaurap0704/ConsultorBI_SQL?tab=readme-ov-file) <br>
 SQL Básico - [repository](https://github.com/ruizrlaurap0704/SQL_Basico) <br>
 
-<h2>Certificados</h2>
-
-Certificados - / [repository](https://github.com/ruizrlaurap0704/Certificados/tree/main)<br>
-
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
